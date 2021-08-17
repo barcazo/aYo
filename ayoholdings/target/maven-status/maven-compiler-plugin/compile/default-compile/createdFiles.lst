@@ -1,0 +1,15 @@
+com\chifamba\brian\ayoholdings\service\LengthService.class
+com\chifamba\brian\ayoholdings\Exception\IncompatibleUnitTypesException.class
+com\chifamba\brian\ayoholdings\AyoholdingsApplication.class
+com\chifamba\brian\ayoholdings\service\VolumeService.class
+com\chifamba\brian\ayoholdings\service\AreaService.class
+com\chifamba\brian\ayoholdings\model\UnitType.class
+com\chifamba\brian\ayoholdings\service\ConversionService.class
+com\chifamba\brian\ayoholdings\conversion\ConversionConfiguration$1.class
+com\chifamba\brian\ayoholdings\model\UnitSystem.class
+com\chifamba\brian\ayoholdings\service\WeightService.class
+com\chifamba\brian\ayoholdings\service\ConversionService$1.class
+com\chifamba\brian\ayoholdings\conversion\ConversionConfiguration.class
+com\chifamba\brian\ayoholdings\controller\ConversionController.class
+com\chifamba\brian\ayoholdings\conversion\ConverterFactory.class
+com\chifamba\brian\ayoholdings\service\TemperatureService.class
